@@ -1,0 +1,2 @@
+# UnitOfWorkGenericRepository
+BerkayIndustries.ResearchTeam.UnitOfWorkGenericRepository 
